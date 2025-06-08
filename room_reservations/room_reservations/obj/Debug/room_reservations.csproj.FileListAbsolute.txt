@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\bin\Debug\room_reservations.exe.config
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\bin\Debug\room_reservations.exe
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\bin\Debug\room_reservations.pdb
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations_MarkupCompile.cache
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations_MarkupCompile.lref
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.g.resources
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.Properties.Resources.resources
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.exe
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.pdb
