@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|solutionrelative:room_reservations\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|solutionrelative:room_reservations\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\practika\\room_reservations\\room_reservations\\room_reservations\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|solutionrelative:room_reservations\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\practika\\room_reservations\\room_reservations\\room_reservations\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|solutionrelative:room_reservations\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\practika\\room_reservations\\room_reservations\\room_reservations\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|solutionrelative:room_reservations\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\practika\\room_reservations\\room_reservations\\room_reservations\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{716BBFDE-14A7-4CCF-86D1-0372026042AF}|room_reservations\\room_reservations.csproj|solutionrelative:room_reservations\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 820,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\MainViewModel.cs",
               "RelativeDocumentMoniker": "room_reservations\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\MainViewModel.cs",
               "RelativeToolTip": "room_reservations\\MainViewModel.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAcwGUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T09:20:24.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\Booking.cs",
               "RelativeDocumentMoniker": "room_reservations\\Booking.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\Booking.cs",
               "RelativeToolTip": "room_reservations\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T09:20:03.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\MainWindow.xaml",
               "RelativeDocumentMoniker": "room_reservations\\MainWindow.xaml",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\Practika\\room_reservations\\room_reservations\\room_reservations\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "room_reservations\\MainWindow.xaml.cs",

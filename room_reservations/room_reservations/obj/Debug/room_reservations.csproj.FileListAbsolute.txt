@@ -14,3 +14,6 @@ C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\roo
 C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.exe
 C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_reservations.pdb
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ \Cod C\Practika\room_reservations\room_reservations\room_reservations\obj\Debug\room_res.6D421E5B.Up2Date
